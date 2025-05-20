@@ -2,7 +2,7 @@
 <h3 align="center">Programming Student | Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emanueltonial&label=Profile%20views&color=0e75b6&style=flat" alt="emanueltonial" />
+  <img src="https://komarev.com/ghpvc/?username=manutonial&label=Profile%20views&color=0e75b6&style=flat" alt="emanueltonial" />
 </p>
 
 - 🌱 I’m currently learning **Java**
@@ -31,8 +31,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuzao333&show_icons=true&theme=vue-dark&hide=prs,issues" alt="emanueltonial stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuzao333&layout=compact&theme=vue-dark&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manutonial&show_icons=true&theme=vue-dark&hide=prs,issues" alt="emanueltonial stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manutonial&layout=compact&theme=vue-dark&langs_count=6" alt="Top Languages"/>
 </p>
 </p>
 
