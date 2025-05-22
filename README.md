@@ -31,8 +31,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manutonial&show_icons=true&theme=vue-dark&hide=prs,issues" alt="emanueltonial stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manutonial&layout=compact&theme=vue-dark&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manutonial&show_icons=true&theme=vue-dark&hide=prs,issues" alt="emanueltonial stats"height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manutonial&layout=compact&theme=vue-dark&langs_count=6" alt="Top Languages"height="40"/>
 </p>
 </p>
 
