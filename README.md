@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **Java**
-- 💻 I have knowledge in **C, HTML, and CSS**
+- 💻 I have knowledge in **Java, HTML, and CSS**
 - 📫 You can reach me at: **emanueltonial77@outlook.com**
 
 ---
