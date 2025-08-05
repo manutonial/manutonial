@@ -5,16 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=manutonial&label=Profile%20views&color=0e75b6&style=flat" alt="emanueltonial" />
 </p>
 
-- 🌱 I’m currently learning **Java**
-- 💻 I have knowledge in **Java, HTML, and CSS**
+- 🌱 I’m currently learning **Python**
+- 💻 I have knowledge in **Python, C, HTML, and CSS**
 - 📫 You can reach me at: **emanueltonial77@outlook.com**
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
