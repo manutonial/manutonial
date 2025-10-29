@@ -1,30 +1,24 @@
-<h1 align="center">Hi 👋, I'm Emanuel D'Agostini Tonial</h1>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/866da1fb-ac3b-465d-9dc1-ea5919af904c" /><h1 align="center">Hi 👋, I'm Emanuel D'Agostini Tonial</h1>
 <h3 align="center">Programming Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manutonial&label=Profile%20views&color=0e75b6&style=flat" alt="emanueltonial" />
 </p>
 
-- 🌱 I’m currently learning **Python**
-- 💻 I have knowledge in **Python, C, HTML, and CSS**
+- 💻 I have knowledge in **Python*
 - 📫 You can reach me at: **emanueltonial77@outlook.com**
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a>
+   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4cfec35e-9473-4ab6-af8d-e05ac4a8c5ba" />
   </a>
   <a href="https://icons8.com/icon/40670/c-programming" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/c-programming.png" alt="C Programming" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40""/>
-  </a>
+
 </p>
 
 ---
