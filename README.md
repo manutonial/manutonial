@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/866da1fb-ac3b-465d-9dc1-ea5919af904c" /><h1 align="center">Hi 👋, I'm Emanuel D'Agostini Tonial</h1>
+Hi 👋, I'm Emanuel D'Agostini Tonial</h1>
 <h3 align="center">Programming Student</h3>
 
 <p align="center">
