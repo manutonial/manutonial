@@ -1,15 +1,3 @@
-<h1>Hi 👋, I'm Emanuel D'Agostini Tonial</h1>
-<h3 align="center">Programming Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manutonial&label=Profile%20views&color=0e75b6&style=flat" alt="emanueltonial" />
-</p>
-
-- 💻 I have knowledge in **Python**
-- 📫 You can reach me at: **emanueltonial77@outlook.com**
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a>
