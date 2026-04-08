@@ -121,17 +121,18 @@ def get_languages(username: str, token: str):
     data = graphql_request(LANGUAGES_QUERY, username, token)
     nodes = data["data"]["user"]["repositories"]["nodes"]
 
-    # Lista de linguagens que você quer IGNORAR
-    EXCLUDE_LANGS = {"HTML", "CSS", "SCSS"}
+    EXCLUDE_REPOS = {"faculdade"}
 
     languages = {}
     for repo in nodes:
+        if repo["name"] in EXCLUDE_REPOS:
+            continue
         for edge in repo["languages"]["edges"]:
             name = edge["node"]["name"]
-            # FILTRO: Só adiciona se não estiver na lista de exclusão
-            if name not in EXCLUDE_LANGS:
-                size = edge["size"]
-                languages[name] = languages.get(name, 0) + size
+            size = edge["size"]
+            languages[name] = languages.get(name, 0) + size
+
+    return dict(sorted(languages.items(), key=lambda x: x[1], reverse=True))
 
     return dict(sorted(languages.items(), key=lambda x: x[1], reverse=True))
 
