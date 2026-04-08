@@ -117,20 +117,23 @@ def get_stats(username: str, token: str):
         "contributed": contributed,
     }
 
-
 def get_languages(username: str, token: str):
     data = graphql_request(LANGUAGES_QUERY, username, token)
     nodes = data["data"]["user"]["repositories"]["nodes"]
+
+    # Lista de linguagens que você quer IGNORAR
+    EXCLUDE_LANGS = {"HTML", "CSS", "SCSS"}
 
     languages = {}
     for repo in nodes:
         for edge in repo["languages"]["edges"]:
             name = edge["node"]["name"]
-            size = edge["size"]
-            languages[name] = languages.get(name, 0) + size
+            # FILTRO: Só adiciona se não estiver na lista de exclusão
+            if name not in EXCLUDE_LANGS:
+                size = edge["size"]
+                languages[name] = languages.get(name, 0) + size
 
     return dict(sorted(languages.items(), key=lambda x: x[1], reverse=True))
-
 
 def bucket_languages(languages: dict, threshold: float = 1.0):
     """Keep languages above threshold%, group the rest as 'other'."""
