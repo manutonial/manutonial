@@ -2,12 +2,12 @@
   -- stats ─────────────────────────────────────────────────
 
   > stars           2
-  > commits (ytd)   30
-  > pull requests   2  (2 merged)
+  > commits (ytd)   41
+  > pull requests   3  (3 merged)
 
   -- languages ─────────────────────────────────────────────
 
-  Python          ███████████████████░  92.9%
-  Dockerfile      █░░░░░░░░░░░░░░░░░░░   7.1%
+  Python          ███████████████████░  93.7%
+  Dockerfile      █░░░░░░░░░░░░░░░░░░░   6.3%
 
 ```
