@@ -232,7 +232,7 @@ def generate_readme(username: str, token: str, path: str = "README.md"):
 
 
 if __name__ == "__main__":
-    username = "manutonial"
+    username = "emanueltonial"
     token = os.getenv("GITHUB_TOKEN", "")
 
     if not token:
